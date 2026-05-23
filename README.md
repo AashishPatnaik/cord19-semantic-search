@@ -59,19 +59,21 @@ knowledge graph generation, and an interactive search interface.
 
 ## Repository Structure
 
-├── run_pipeline.py          ← main pipeline runner
-├── test_search.py           ← interactive search interface
+```
+├── run_pipeline.py           ← main pipeline runner
+├── test_search.py            ← interactive search interface
 ├── src/
-│   ├── vector_search.py     ← FAISS semantic search
-│   ├── ner_extractor.py     ← NER extraction
+│   ├── vector_search.py      ← FAISS semantic search
+│   ├── ner_extractor.py      ← NER extraction
 │   ├── relation_extractor.py ← relation extraction
-│   └── knowledge_graph.py  ← graph builder + HTML export
+│   └── knowledge_graph.py   ← graph builder + HTML export
 ├── data/
-│   └── papers/              ← CORD-19 paper JSON files
+│   └── papers/               ← CORD-19 paper JSON files
 └── outputs/
-└── results/
-├── complete_analysis.json  ← full pipeline output
-└── knowledge_graph.html   ← interactive graph
+    └── results/
+        ├── complete_analysis.json  ← full pipeline output
+        └── knowledge_graph.html   ← interactive graph
+```
 
 ## Tech Stack
 
