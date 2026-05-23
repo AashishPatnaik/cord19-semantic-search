@@ -1,0 +1,229 @@
+{
+  "semantic_results": [
+    {
+      "paper_id": "86d4262de73cf81b5ea6aafb91630853248bff5f",
+      "title": "Urban planning of the endoplasmic reticulum (ER): How diverse mechanisms segregate the many functions of the ER",
+      "entities": [],
+      "entity_count": 0,
+      "relations": [],
+      "relation_count": 0
+    },
+    {
+      "paper_id": "b2f67d533f2749807f2537f3775b39da3b186051",
+      "title": "Caring for persons in detention suffering with mental illness during the Covid-19 outbreak",
+      "entities": [],
+      "entity_count": 0,
+      "relations": [],
+      "relation_count": 0
+    },
+    {
+      "paper_id": "9ec0b1175992879d5b8d3351ef40a28bb48f18ce",
+      "title": "",
+      "entities": [],
+      "entity_count": 0,
+      "relations": [],
+      "relation_count": 0
+    },
+    {
+      "paper_id": "86a998617c077f4fe2ab26214995a3548fbc0fc5",
+      "title": "Middle East Respiratory Syndrome and Severe Acute Respiratory Syndrome",
+      "entities": [
+        {
+          "text": "Middle East Respiratory Syndrome",
+          "label": "ORG",
+          "start": 0,
+          "end": 32
+        },
+        {
+          "text": "Severe Acute Respiratory",
+          "label": "ORG",
+          "start": 37,
+          "end": 61
+        }
+      ],
+      "entity_count": 2,
+      "relations": [],
+      "relation_count": 0
+    },
+    {
+      "paper_id": "948aaeb2e0be11ad90562bf10d462531a1f00eac",
+      "title": "Integrated, Multi-cohort Analysis Identifies Conserved Transcriptional Signatures across Multiple Respiratory Viruses",
+      "entities": [
+        {
+          "text": "Analysis Identifies Conserved Transcriptional Signatures",
+          "label": "ORG",
+          "start": 25,
+          "end": 81
+        },
+        {
+          "text": "Multiple Respiratory Viruses",
+          "label": "ORG",
+          "start": 89,
+          "end": 117
+        }
+      ],
+      "entity_count": 2,
+      "relations": [],
+      "relation_count": 0
+    },
+    {
+      "paper_id": "4ed70c27f14b7f9e6219fe605eae2b21a229f23c",
+      "title": "Update on therapeutic options for Middle East Respiratory Syndrome Coronavirus (MERS-CoV)",
+      "entities": [
+        {
+          "text": "Middle East Respiratory Syndrome Coronavirus",
+          "label": "ORG",
+          "start": 34,
+          "end": 78
+        }
+      ],
+      "entity_count": 1,
+      "relations": [],
+      "relation_count": 0
+    },
+    {
+      "paper_id": "306ef95a3a91e13a93bcc37fb2c509b67c0b5640",
+      "title": "A Novel Approach for a Novel Pathogen: using a home assessment team to evaluate patients for 2019 novel coronavirus (SARS-CoV-2)",
+      "entities": [],
+      "entity_count": 0,
+      "relations": [],
+      "relation_count": 0
+    },
+    {
+      "paper_id": "ab680d5dbc4f51252da3473109a7885dd6b5eb6f",
+      "title": "Evolutionary Medicine IV. Evolution and Emergence of Novel Pathogens",
+      "entities": [],
+      "entity_count": 0,
+      "relations": [],
+      "relation_count": 0
+    },
+    {
+      "paper_id": "6599ebbef3d868afac9daa4f80fa075675cf03bc",
+      "title": "International aviation emissions to 2025: Can emissions be stabilised without restricting demand?",
+      "entities": [],
+      "entity_count": 0,
+      "relations": [],
+      "relation_count": 0
+    },
+    {
+      "paper_id": "ad98979eada6e333a276d39efdce21779d538625",
+      "title": "Xanthine-based acyclic nucleoside phosphonates with potent antiviral activity against varicella-zoster virus and human cytomegalovirus",
+      "entities": [],
+      "entity_count": 0,
+      "relations": [],
+      "relation_count": 0
+    }
+  ],
+  "graph_analysis": {
+    "nodes": 5,
+    "edges": 0,
+    "density": 0,
+    "top_entities": {
+      "Middle East Respiratory Syndrome": 0,
+      "Severe Acute Respiratory": 0,
+      "Analysis Identifies Conserved Transcriptional Signatures": 0,
+      "Multiple Respiratory Viruses": 0,
+      "Middle East Respiratory Syndrome Coronavirus": 0
+    },
+    "top_connections": {},
+    "entity_types": {
+      "ORG": 5
+    }
+  },
+  "demo_searches": {
+    "COVID-19 treatment": [
+      {
+        "paper_id": "b2f67d533f2749807f2537f3775b39da3b186051",
+        "title": "Caring for persons in detention suffering with mental illness during the Covid-19 outbreak",
+        "text": "Caring for persons in detention suffering with mental illness during the Covid-19 outbreak. Entities: . Relations: ",
+        "entity_count": 0,
+        "relation_count": 0,
+        "similarity_score": 0.5558909177780151,
+        "rank": 1
+      },
+      {
+        "paper_id": "306ef95a3a91e13a93bcc37fb2c509b67c0b5640",
+        "title": "A Novel Approach for a Novel Pathogen: using a home assessment team to evaluate patients for 2019 novel coronavirus (SARS-CoV-2)",
+        "text": "A Novel Approach for a Novel Pathogen: using a home assessment team to evaluate patients for 2019 novel coronavirus (SARS-CoV-2). Entities: . Relations: ",
+        "entity_count": 0,
+        "relation_count": 0,
+        "similarity_score": 0.5395358800888062,
+        "rank": 2
+      },
+      {
+        "paper_id": "4ed70c27f14b7f9e6219fe605eae2b21a229f23c",
+        "title": "Update on therapeutic options for Middle East Respiratory Syndrome Coronavirus (MERS-CoV)",
+        "text": "Update on therapeutic options for Middle East Respiratory Syndrome Coronavirus (MERS-CoV). Entities: Middle East Respiratory Syndrome Coronavirus. Relations: ",
+        "entity_count": 1,
+        "relation_count": 0,
+        "similarity_score": 0.4577748477458954,
+        "rank": 3
+      }
+    ],
+    "vaccine research": [
+      {
+        "paper_id": "ab680d5dbc4f51252da3473109a7885dd6b5eb6f",
+        "title": "Evolutionary Medicine IV. Evolution and Emergence of Novel Pathogens",
+        "text": "Evolutionary Medicine IV. Evolution and Emergence of Novel Pathogens. Entities: . Relations: ",
+        "entity_count": 0,
+        "relation_count": 0,
+        "similarity_score": 0.3404153287410736,
+        "rank": 1
+      },
+      {
+        "paper_id": "306ef95a3a91e13a93bcc37fb2c509b67c0b5640",
+        "title": "A Novel Approach for a Novel Pathogen: using a home assessment team to evaluate patients for 2019 novel coronavirus (SARS-CoV-2)",
+        "text": "A Novel Approach for a Novel Pathogen: using a home assessment team to evaluate patients for 2019 novel coronavirus (SARS-CoV-2). Entities: . Relations: ",
+        "entity_count": 0,
+        "relation_count": 0,
+        "similarity_score": 0.31709006428718567,
+        "rank": 2
+      },
+      {
+        "paper_id": "948aaeb2e0be11ad90562bf10d462531a1f00eac",
+        "title": "Integrated, Multi-cohort Analysis Identifies Conserved Transcriptional Signatures across Multiple Respiratory Viruses",
+        "text": "Integrated, Multi-cohort Analysis Identifies Conserved Transcriptional Signatures across Multiple Respiratory Viruses. Entities: Analysis Identifies Conserved Transcriptional Signatures, Multiple Respiratory Viruses. Relations: ",
+        "entity_count": 2,
+        "relation_count": 0,
+        "similarity_score": 0.27813953161239624,
+        "rank": 3
+      }
+    ],
+    "coronavirus symptoms": [
+      {
+        "paper_id": "306ef95a3a91e13a93bcc37fb2c509b67c0b5640",
+        "title": "A Novel Approach for a Novel Pathogen: using a home assessment team to evaluate patients for 2019 novel coronavirus (SARS-CoV-2)",
+        "text": "A Novel Approach for a Novel Pathogen: using a home assessment team to evaluate patients for 2019 novel coronavirus (SARS-CoV-2). Entities: . Relations: ",
+        "entity_count": 0,
+        "relation_count": 0,
+        "similarity_score": 0.5712776780128479,
+        "rank": 1
+      },
+      {
+        "paper_id": "4ed70c27f14b7f9e6219fe605eae2b21a229f23c",
+        "title": "Update on therapeutic options for Middle East Respiratory Syndrome Coronavirus (MERS-CoV)",
+        "text": "Update on therapeutic options for Middle East Respiratory Syndrome Coronavirus (MERS-CoV). Entities: Middle East Respiratory Syndrome Coronavirus. Relations: ",
+        "entity_count": 1,
+        "relation_count": 0,
+        "similarity_score": 0.4950970709323883,
+        "rank": 2
+      },
+      {
+        "paper_id": "948aaeb2e0be11ad90562bf10d462531a1f00eac",
+        "title": "Integrated, Multi-cohort Analysis Identifies Conserved Transcriptional Signatures across Multiple Respiratory Viruses",
+        "text": "Integrated, Multi-cohort Analysis Identifies Conserved Transcriptional Signatures across Multiple Respiratory Viruses. Entities: Analysis Identifies Conserved Transcriptional Signatures, Multiple Respiratory Viruses. Relations: ",
+        "entity_count": 2,
+        "relation_count": 0,
+        "similarity_score": 0.29950377345085144,
+        "rank": 3
+      }
+    ]
+  },
+  "summary": {
+    "total_papers": 10,
+    "total_entities": 5,
+    "total_relations": 0,
+    "graph_nodes": 5,
+    "graph_edges": 0
+  }
+}
